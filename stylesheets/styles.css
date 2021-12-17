@@ -1,0 +1,27 @@
+.container{
+    width: 70%;
+    margin-top: 5%;
+}
+
+.row{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+#row_1{
+    background-color: red;
+}
+#row_2{
+    background-color: orange;
+}
+#row_3{
+    background-color: #ffcc00;
+}
+#row_4{
+    background-color: green;
+}
+#row_5{
+    background-color: dodgerblue;
+}
